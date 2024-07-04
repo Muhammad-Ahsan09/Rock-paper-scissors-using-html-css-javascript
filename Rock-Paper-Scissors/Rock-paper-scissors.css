@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(25, 25, 25);
+    color: white;
+    font-family: Arial;
+}
+
+.move-emoji{
+    height: 50px;
+    background-color: transparent;
+}
+
+.move-button{
+    background-color: transparent;
+    border: 2px solid white;
+    height: 120px;
+    width: 120px;
+    border-radius: 60px;
+    margin-right:10px;
+    cursor: pointer;
+}
+
+.result{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.reset-button{
+    height: 40px;
+    border:none;
+    cursor: pointer;
+}
+
+.autoplay-button{
+    height: 40px;
+    border:none;
+    cursor: pointer;
+}
